@@ -1,13 +1,13 @@
 [22737]
 title = "点燃我"
 url = "https://www.bdys01.com/guoju/22737.htm"
-entrySelector = "div > div > ul > li"
-titleSelector = "div > div > a:nth-child(2)"
-linkSelector = "div > div > a:nth-child(2)"
+entrySelector = "div > div > ul > li > div"
+titleSelector = "div > a:nth-child(2)"
+linkSelector = "div > a:nth-child(2)"
 
 [22756]
 title = "卿卿日常"
 url = "https://www.bdys01.com/guoju/22756.htm"
-entrySelector = "div > div > ul > li"
-titleSelector = "div > div > a:nth-child(2)"
-linkSelector = "div > div > a:nth-child(2)"
+entrySelector = "div > div > ul > li > div"
+titleSelector = "div > a:nth-child(2)"
+linkSelector = "div > a:nth-child(2)"
