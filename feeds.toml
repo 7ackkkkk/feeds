@@ -1,13 +1,13 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[22737]
+title = "点燃我"
+url = "https://www.bdys01.com/guoju/22737.htm"
+entrySelector = "div > div > ul > li"
+titleSelector = "div > div > a:nth-child(2)"
+linkSelector = "div > div > a:nth-child(2)"
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
+[22756]
+title = "卿卿日常"
+url = "https://www.bdys01.com/guoju/22756.htm"
+entrySelector = "div > div > ul > li"
+titleSelector = "div > div > a:nth-child(2)"
+linkSelector = "div > div > a:nth-child(2)"
